@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/earth_remote_sensing" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
